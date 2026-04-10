@@ -1,0 +1,8 @@
+{
+    "name": "Sample",
+    "version": "1.0.0",
+    "description": "A sample JSON file",
+    "properties": {
+        "key": "value"
+    }
+}
